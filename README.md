@@ -1,6 +1,6 @@
 # BARS ARCHITECTS
 
-Веб-сайт архитектурной компании BARS ARCHITECTS, разработанный с использованием React и Material-UI.
+Тестовый лендинг архитектурной компании BARS ARCHITECTS, разработанный с использованием React и Material-UI.
 
 ## Технологии
 
@@ -49,16 +49,7 @@ src/
 - Оптимизированная производительность
 - Единый стиль оформления
 
-## Скриншоты
 
-[Здесь можно добавить скриншоты вашего сайта]
+- Email: [ernurdenasan@gmail.com]
 
-## Лицензия
-
-MIT
-
-## Контакты
-
-- Email: [your-email]
-- Website: [your-website]
 # bars_landing
